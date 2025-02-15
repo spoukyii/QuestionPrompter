@@ -1,6 +1,5 @@
 # QuestionPrompter 📚
-
-Welcome to QuestionPrompter! Crafted to elevate your study sessions, this tool ensures you're thoroughly prepped for your exams. Enter your questions and corresponding answers, and let QuestionPrompter serve them up in a randomized sequence to simulate a real quiz environment.
+Random project I made to make my life easier and to actually properly study 
 
 ## 🚀 Getting Started 
 
@@ -12,6 +11,3 @@ Welcome to QuestionPrompter! Crafted to elevate your study sessions, this tool e
 1. Open the `question.txt` file.
 2. Add your questions and answers in the following format: `Your question : Your answer`.
 3. Save the file and run the program.
-
-## 🙏 Support & Contributions
-Feel free to fork this repository, and contributions are always welcome! Open an issue for any bugs or feature suggestions.
